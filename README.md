@@ -1,2 +1,2 @@
 # collaborative-practice
-Practice website for Springboard student collaboration
+Practice webpage for Springboard student collaboration
